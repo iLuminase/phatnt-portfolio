@@ -1,8 +1,6 @@
 # Phatnt's Portfolio Project
 
-An open-source, user-friendly, responsive, and accessible portfolio template for developers 🚀⚡
-
-Give a star ⭐ if you find it useful. [Visit site &rarr;](https://opensource-portfolio.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c062b60b-d40f-4820-9814-c377bfb2f3fc/deploy-status)](https://app.netlify.com/sites/phatdev-portfolio/deploys)
 
 ![Portfolio Homepage Demo](assets/images/portfolio-template.gif)
 
