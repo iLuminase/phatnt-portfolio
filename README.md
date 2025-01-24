@@ -4,7 +4,7 @@ An open-source, user-friendly, responsive, and accessible portfolio template for
 
 Give a star ⭐ if you find it useful. [Visit site &rarr;](https://opensource-portfolio.netlify.app/)
 
-![Portfolio Template Gif](assets/images/portfolio-template.gif)
+![Portfolio Homepage Demo](assets/images/portfolio-template.gif)
 
 
 
