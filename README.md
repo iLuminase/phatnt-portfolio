@@ -22,4 +22,4 @@ Give a star ⭐ if you find it useful. [Visit site &rarr;](https://opensource-po
 <img src="assets/images/lighthouse.png" alt="lighthouse report with 100% scores">
 
 ## Hosting
-Host and Deploy on (https://www.netlify.com/)
+Host and Deploy on <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
